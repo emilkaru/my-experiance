@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: #8e8e8e;
+}
+
+.eventBlock {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    background: #bfbfbf;
+}
+
+p {
+    margin: 0;
+}
+.title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    padding: 2px;
+    border-radius: 3px;
+    background: #b5b5b5;
+}
+.paragraph {
+    margin-left: 10px;
+}
