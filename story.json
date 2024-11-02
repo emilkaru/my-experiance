@@ -1,0 +1,128 @@
+[
+  {
+    "est": [
+      {
+        "type": "title",
+        "text": "Oktoober 31 2024 - Hakkasin selle lehega tegelema"
+      },
+      {
+        "type": "text",
+        "text": "Siit alla poole on detailid veidi hägused, kuna ma ennem ei mõelnud selle peale, et seda lehte teha."
+      }
+    ],
+    "en": [
+      {
+        "type": "title",
+        "text": "October 31 2024 - I started to work on this page"
+      },
+      {
+        "type": "text",
+        "text": "Some details might be a bit blurry from here, because I didn't think about making this website then."
+      }
+    ]
+  },
+  {
+    "est": [
+      {
+        "type": "title",
+        "text": "August 21 kuni 25 2024 - Sack von Sound"
+      },
+      {
+        "type": "text",
+        "text": "Tegelesin peamiselt PA üless panekuga ja tehnika maha võtmisega. Ma ei teinud seal nii palju kui ma oleks tahtnud, aga vähemalt sain midagigi teha."
+      },
+      {
+        "type": "images",
+        "images": [
+          {
+            "image": "images/Sack-von-Sound-2024/IMG_20240820_124054.jpg",
+            "description": "vasak PA torn"
+          },
+          {
+            "image": "images/Sack-von-Sound-2024/IMG_20240820_124959.jpg",
+            "description": "sama torn umbes 5 minuti pärast"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "type": "title",
+        "text": "August 21 to 25 2024 - Sack von Sound"
+      },
+      {
+        "type": "text",
+        "text": "I mainly helped with PA setup and general teardown. I didn't do as much as I would have hoped to do, but I at least got to do something."
+      },
+      {
+        "type": "images",
+        "images": [
+          {
+            "image": "images/Sack-von-Sound-2024/IMG_20240820_124054.jpg",
+            "description": "left PA tower"
+          },
+          {
+            "image": "images/Sack-von-Sound-2024/IMG_20240820_124959.jpg",
+            "description": "the same PA about 5 minutes later"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "est": [
+      {
+        "type": "title",
+        "text": "August 2024 - 17. sünnipäev"
+      },
+      {
+        "type": "text",
+        "text": "Esimest korda rentisin SQ-5 pulti ja panin subid auxi pealt. See pult oli veits üle võlli selle sündmuse jaoks, aga ma sain multitrack lindistusi otse pulti mängida ja neid mixida."
+      },
+      {
+        "type": "images",
+        "images": [
+          {
+            "image": "images/sünna-2024/IMG_20240803_211846.jpg",
+            "description": "FOH"
+          },
+          {
+            "image": "images/sünna-2024/IMG_20240803_222047.jpg",
+            "description": "lava"
+          },
+          {
+            "image": "images/sünna-2024/IMG_20240803_222120.jpg",
+            "description": "mina PA kõrval"
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "type": "title",
+        "text": "August 2024 - 17th birthday"
+      },
+      {
+        "type": "text",
+        "text": "I rented an SQ-5 for the first time and did subs on an AUX. The console was a bit overkill for this event, but I could route multitrack recordings into the console and mix them."
+      },
+      {
+        "type": "images",
+        "images": [
+          {
+            "image": "images/sünna-2024/IMG_20240803_211846.jpg",
+            "description": "FOH"
+          },
+          {
+            "image": "images/sünna-2024/IMG_20240803_222047.jpg",
+            "description": "stage"
+          },
+          {
+            "image": "images/sünna-2024/IMG_20240803_222120.jpg",
+            "description": "me beside the PA"
+          }
+        ]
+      }
+    ]
+  }
+]

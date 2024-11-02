@@ -6,9 +6,14 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="eventBlock">
-        <p class="title">Oktoober 31 2024 - Hakkasin selle lehega tegelema.</p>
-        <p class="paragraph">Siit alla poole on detailid veidi hägused, kuna ma ennem ei mõelnud selle peale, et seda lehte teha</p>
+    <script src="scripts.js"></script>
+    <div style="display: flex">
+        <div id="header">
+            <span class="fakeLink" onclick="constructList(`est`)">Eesti keel</span>
+            <span class="fakeLink" onclick="constructList(`en`)">English</span>
+        </div>
+    </div>
+    <div id="storyContainer">
     </div>
 </body>
 </html>

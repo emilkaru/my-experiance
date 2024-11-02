@@ -23,3 +23,43 @@ p {
 .paragraph {
     margin-left: 10px;
 }
+
+.fakeLink {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#header {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+img {
+    max-width: calc(100% - 4px);
+    margin: 2px;
+    border: 1px solid gray;
+}
+
+.description {
+    font-size: 0.8em;
+}
+
+.imageWrapper {
+    max-width: 200px;
+    padding: 5px;
+    border: 1px solid #606060;
+    background: #acacac;
+    border-radius: 5px;
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    height: fit-content
+}
+
+.imageGallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin: 3px 3px 3px 10px;
+}
